@@ -60,3 +60,7 @@ Even where present in legacy source material, the site does not repeat machine m
 There is no backend. File selection/drag-and-drop holds filenames and sizes in memory only; it never reads or uploads file bytes. Submitting valid details opens a mailto draft addressed to `unityfabricate@gmail.com` and CCs `ericong8882@gmail.com`. It lists selected filenames and instructs the visitor to attach files manually. No success message claims submission or delivery. A visible draft, reopen link and copy fallback remain available if no mail client is configured. Nothing is sent automatically.
 
 No analytics or third-party scripts are included. Only the EN/中文 preference is stored in localStorage when available. Form details are not persisted.
+
+
+## CNC expansion — 4 October 2026
+User requested CNC using a supplied brochure photo. CNC precision machining is now prominently named in the hero, its own expanded capability block and the quote selector. The source supports machinery, automation, electronics and automotive applications. No TV-80 ownership, tolerances, certifications or numerical productivity claims were added. Existing generated CNC component imagery is retained with its AI disclosure.
